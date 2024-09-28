@@ -14,7 +14,7 @@ load_dotenv()
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 # Get the bot token from the environment
 TOKEN = os.getenv('DISCORD_TOKEN')
-api_key = 'dc50955858f57f'
+api_key = 'your api'
 channel_id = 1274580261807456381
 # Enable all intents
 intents = discord.Intents.all()
