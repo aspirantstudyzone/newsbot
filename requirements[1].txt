@@ -1,0 +1,8 @@
+discord.py
+aiosqlite
+matplotlib
+python-dotenv
+requests
+aiohttp
+humanize
+pytz
